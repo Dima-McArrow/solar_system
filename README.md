@@ -1,6 +1,6 @@
 # Solar System
 
-> V0.9
+> V1.0
 
 Star:
 
